@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fateh Alrabeai</h1>
 
 # 💫 About Me:
-🔭 A passionate Full Stack Web Developer with over five years of experience building dynamic and responsive web applications. My expertise lies in developing robust backends with PHP (Laravel), crafting intuitive frontends with JavaScript frameworks like Vue.js, React.js and ensuring seamless user experiences.<br>👯 I’m looking to collaborate on open-source codes.<br>🤝 I’m looking for help with any open-souce projects that I create.<br>🌱 I’m currently learning Filamentphp, React.js, React Native.
+🔭 A passionate Full Stack Web Developer with over five years of experience building dynamic and responsive web applications. My expertise lies in developing robust backends with PHP (Laravel), Node.js, crafting intuitive frontends with JavaScript frameworks like Vue.js, React.js and ensuring seamless user experiences.
 
 
 ## 🌐 Socials:
